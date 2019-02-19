@@ -25,4 +25,10 @@
 
   ;; to get rid of docstrings
   
-  (./purge))
+  (./purge)
+
+  ;; to report functions with incomplete tests
+
+  (./incomplete)
+
+)
